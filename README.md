@@ -1,9 +1,7 @@
 ![screenshot of pacman](pacman.gif)
 
 # Pacman AI
-Jussi Doherty
-CAP 4601 - Introduction to Artificial Intelligence - Fall 2020
-Python version 3.0+
+
 
 ## Source of this project
 This repo contains a Pac-Man project adopted from UC Berkeley's introductory artificial intelligence class, [CS188 Intro to AI](http://ai.berkeley.edu/project_overview.html). 
