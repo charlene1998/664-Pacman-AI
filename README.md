@@ -11,7 +11,7 @@ First, I improved the **Reflex Agent** so that it plays the game respectably. A 
 
 To try out the reflex agent on the default *mediumClassic* layout with one ghost or two:
 ```
-python pacman.py —frameTime 0 -p ReflexAgent -k 1
+python pacman.py --frameTime 0 -p ReflexAgent -k 1
 python pacman.py --frameTime 0 -p ReflexAgent -k 2
 ```
 
